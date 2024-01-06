@@ -1,7 +1,7 @@
 # HangmanKeras
 Simple AI Agent Trained to play Hangman
 
-This repo is a task for a coding interview. The tasks is to design an algorithm that is able to play hangman. They provided lists of words that can be used for training which unfortunately I am unable to disclose.
+The tasks is to design an algorithm that is able to play hangman. They provided lists of words that can be used for training which unfortunately I am unable to disclose.
 The algorithm can only be trained with the said list of words only. The algorithm then will be tested with out of vocabulary(that is given to me) words using an api. 
 By fairness assumption, the test set should be similarly distributed (in case statistical approach is considered).
 
